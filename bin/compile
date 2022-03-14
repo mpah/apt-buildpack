@@ -1,3 +1,4 @@
 #!/bin/bash
-
+echo "installing fonts-noto-cjk"
 apt-get install fonts-noto-cjk
+echo "installed fonts-noto-cjk"
