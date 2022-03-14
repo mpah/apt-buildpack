@@ -1,4 +1,3 @@
 #!/bin/bash
 
-echo 'Warning: this buildpack can only be run as a supply buildpack, it can not be run alone' >&2
-exit 1
+apt-get install fonts-noto-cjk
